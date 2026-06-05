@@ -1,2 +1,10 @@
-# osquery-extensions
-A collection of custom osquery extensions – providing additional virtual tables, configuration/logging plugins. 自定义 osquery 扩展集合，提供额外的虚拟表、配置与日志插件。
+# osquery-extensions / osquery 扩展仓库
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+
+**English** | [**中文**](#chinese-version)
+
+This repository contains custom osquery extensions developed to extend the core functionality of [osquery](https://osquery.io/). Each extension is maintained in its own subdirectory and can be built independently.
+
+The extensions add new virtual tables, configuration plugins, or log plugins, enabling deeper host monitoring, security detection, and tailored data collection.
+
