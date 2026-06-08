@@ -8,3 +8,7 @@ This repository contains custom osquery extensions developed to extend the core 
 
 The extensions add new virtual tables, configuration plugins, or log plugins, enabling deeper host monitoring, security detection, and tailored data collection.
 
+
+|扩展列表|说明|
+|-|-|
+|windows_activation|Windows 激活许可信息|
